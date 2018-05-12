@@ -38,14 +38,12 @@ class Window(QMainWindow):
 
     @pyqtSlot()
 
-
+    #Work in progress
     def on_info_color_leaf_btn_clicked(self):
-
         pass
 
-
+    #Work in progress
     def on_info_lesion_btn_clicked(self):
-
         pass
 
 
