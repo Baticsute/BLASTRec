@@ -4,3 +4,5 @@ Blast disease is caused by the Pyricularia oryzae fungus and has been recorded i
 Today, with the rapid development of internet networks, mobile devices, etc., most of the farmers own mobile phones. In this study, the content-based of recommender method is used to build the mobile application “BLASTREC” that supports farmers in blast prevention . The software BLASTREC functions Window operating system based on two Naive Bayes and Decision Tree classification algorithms. Experimental results show that the accuracy of two algorithms is more than 90%. The experiment data on blast in Trung An area, Thot Not district, Can Tho city combines with agricultural expert’s opinion to provide farmers with appropriate treatment .
 # User Interface :
 ![alt text](https://github.com/Baticsute/BLASTRec/blob/master/Guiimg.jpg)
+# Result :
+![alt text](https://github.com/Baticsute/BLASTRec/blob/master/GuiVN.png)
