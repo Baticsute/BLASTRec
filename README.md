@@ -6,3 +6,6 @@ Today, with the rapid development of internet networks, mobile devices, etc., mo
 ![alt text](https://github.com/Baticsute/BLASTRec/blob/master/Guiimg.jpg)
 # Result :
 ![alt text](https://github.com/Baticsute/BLASTRec/blob/master/GuiVN.png)
+# Reference :
+This research has been upgraded from the post-article : 
+https://sj.ctu.edu.vn/ql/docgia/tacgia-18299/baibao-50447/doi-ctu.jsi.2017.022.html , instead of using the traditional Entropy Function ( Shannon Entropy ) for each class, the recommendation : alpha Entropy ( Reyi Entropy ) , beta Entropy ( Daróczy Entropy ) performed from this http://www.cit.ctu.edu.vn/~dtnghi/rech/dir_0/Nghi_Khang.pdf .
